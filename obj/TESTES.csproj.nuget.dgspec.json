@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Augusto_w_borges\\Documents\\TESTES\\TESTES.csproj": {}
+    "C:\\Users\\Augusto_w_borges\\Documents\\TESTES-1\\TESTES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Augusto_w_borges\\Documents\\TESTES\\TESTES.csproj": {
+    "C:\\Users\\Augusto_w_borges\\Documents\\TESTES-1\\TESTES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Augusto_w_borges\\Documents\\TESTES\\TESTES.csproj",
+        "projectUniqueName": "C:\\Users\\Augusto_w_borges\\Documents\\TESTES-1\\TESTES.csproj",
         "projectName": "TESTES",
-        "projectPath": "C:\\Users\\Augusto_w_borges\\Documents\\TESTES\\TESTES.csproj",
+        "projectPath": "C:\\Users\\Augusto_w_borges\\Documents\\TESTES-1\\TESTES.csproj",
         "packagesPath": "C:\\Users\\Augusto_w_borges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Augusto_w_borges\\Documents\\TESTES\\obj\\",
+        "outputPath": "C:\\Users\\Augusto_w_borges\\Documents\\TESTES-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Augusto_w_borges\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -38,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

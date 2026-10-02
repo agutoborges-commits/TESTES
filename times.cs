@@ -1,9 +1,9 @@
 class Time : iTime
 {
-    public string Modalidade { get;  set; }
+    public string Modalidade { get; set; } = string.Empty;
     public string Nome { get; private set; }
 
-    public Time( string nome)
+    public Time(string nome)
     {
         Nome = nome;
     }
@@ -13,10 +13,10 @@ class Time : iTime
         Console.WriteLine($"O time {Nome} está jogando a modalidade {Modalidade}.");
     }
 
-    public static Time Cadastrar()
+    public static Time? Cadastrar()
     {
-        string nome;
-        string modalidade;
+        string? nome;
+        string? modalidade;
         Console.WriteLine("Digite o nome do time:");
         nome = Console.ReadLine();
         Console.WriteLine("Digite a modalidade do time:");
