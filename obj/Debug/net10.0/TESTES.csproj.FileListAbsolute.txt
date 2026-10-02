@@ -1,0 +1,14 @@
+C:\Users\Augusto_w_borges\Documents\TESTES\bin\Debug\net10.0\TESTES.exe
+C:\Users\Augusto_w_borges\Documents\TESTES\bin\Debug\net10.0\TESTES.deps.json
+C:\Users\Augusto_w_borges\Documents\TESTES\bin\Debug\net10.0\TESTES.runtimeconfig.json
+C:\Users\Augusto_w_borges\Documents\TESTES\bin\Debug\net10.0\TESTES.dll
+C:\Users\Augusto_w_borges\Documents\TESTES\bin\Debug\net10.0\TESTES.pdb
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\TESTES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\TESTES.AssemblyInfoInputs.cache
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\TESTES.AssemblyInfo.cs
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\TESTES.csproj.CoreCompileInputs.cache
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\TESTES.dll
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\refint\TESTES.dll
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\TESTES.pdb
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\TESTES.genruntimeconfig.cache
+C:\Users\Augusto_w_borges\Documents\TESTES\obj\Debug\net10.0\ref\TESTES.dll
